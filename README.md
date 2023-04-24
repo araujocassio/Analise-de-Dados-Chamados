@@ -26,7 +26,11 @@ Este projeto é uma solução completa e fácil de usar para o identificar ponto
 
 ![image](https://user-images.githubusercontent.com/98669544/234097176-28605d83-13aa-4a27-817d-57fe764a4b46.png)
 ![image](https://user-images.githubusercontent.com/98669544/234097287-519c7643-67e1-4b42-93a1-63a6550f6139.png)
-![image](https://user-images.githubusercontent.com/98669544/234097337-75866a5a-9ed6-4c29-bcf8-8e6ed3c5ffde.png)
+![image](https://user-images.githubusercontent.com/98669544/234097702-8a7bafb3-d072-4227-8b58-8b1bb2f59d9e.png)
 ![image](https://user-images.githubusercontent.com/98669544/234097484-d3af6ad2-3e23-40f0-93d7-b03cb487522d.png)
+
+# Conclusão
+
+ - Essas são as sala criticas de frio excessivo;
 
 
