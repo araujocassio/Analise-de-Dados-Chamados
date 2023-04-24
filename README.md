@@ -1,11 +1,25 @@
 # ArCodicionado
 
-Bem-vindo ao projeto de análise de chamados para ajuste de temperatura! Este projeto tem como objetivo analisar os dados de chamados relacionados a problemas de temperatura em um ambiente específico, a fim de identificar possíveis ajustes que possam ser feitos para melhorar a eficiência e reduzir custos.
 
-Nosso objetivo é criar um modelo preditivo que possa ser utilizado para prever possíveis problemas de temperatura antes que eles ocorram. Para isso, vamos utilizar técnicas de análise de dados correlacioná-los com as condições ambientais.
 
-Ao utilizar este repositório, você terá acesso aos dados coletados, bem como aos códigos e scripts utilizados para realizar a análise e desenvolver o modelo preditivo. Sinta-se à vontade para contribuir com o projeto, fornecendo sugestões, feedback ou mesmo participando da implementação de novas funcionalidades.
+Esse projeto de análise de chamados para ajuste de temperatura utilizando o Banco de Dados de uma ferramenta de manutenção InfraSpeak! Tem como objetivo analisar os dados de chamados relacionados a problemas de temperatura em um ambiente específico, a fim de identificar possíveis ajustes que possam ser feitos para melhorar a eficiência e reduzir custos.
 
-Este é um projeto em andamento e estamos constantemente trabalhando para aprimorá-lo. Portanto, fique à vontade para enviar pull requests ou abrir issues se você encontrar algum problema ou tiver alguma sugestão de melhoria.
+Funcionalidades:
 
-Obrigado por fazer parte deste projeto!
+ - Identificar pontos criticos de temperatura no prédio;
+ - Identificar qual epoca do ano possui maior numero de chamados;
+ - 
+
+Tecnologias utilizadas:
+
+ - Linguagem de programação Python;
+ - Banco de dados SQL para armazenamento dos dados;
+
+Como utilizar:
+
+ - Clone o repositório do projeto para a sua máquina local;
+ - Instale as dependências do projeto utilizando o pip;
+ - Configure as credenciais de acesso ao banco de dados;
+ - Compile e execute a aplicação utilizando o comando "python app.py";
+
+Este projeto é uma solução completa e fácil de usar para o identificar pontos criticos de temperatura em um prédio, utilizando a linguagem de programação Python. Sinta-se à vontade para contribuir com melhorias e novas funcionalidades para a plataforma.
