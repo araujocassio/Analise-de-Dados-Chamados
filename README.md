@@ -1,21 +1,21 @@
-# ArCodicionado
+# Chamados de Ar Condicionado
 
 
 
 Esse projeto de análise de chamados para ajuste de temperatura utilizando o Banco de Dados de uma ferramenta de manutenção InfraSpeak! Tem como objetivo analisar os dados de chamados relacionados a problemas de temperatura em um ambiente específico, a fim de identificar possíveis ajustes que possam ser feitos para melhorar a eficiência e reduzir custos.
 
-Funcionalidades:
+# Funcionalidades:
 
  - Identificar pontos criticos de temperatura no prédio;
  - Identificar qual epoca do ano possui maior numero de chamados;
  - 
 
-Tecnologias utilizadas:
+# Tecnologias utilizadas:
 
  - Linguagem de programação Python;
  - Banco de dados SQL para armazenamento dos dados;
 
-Como utilizar:
+# Como utilizar:
 
  - Clone o repositório do projeto para a sua máquina local;
  - Instale as dependências do projeto utilizando o pip;
