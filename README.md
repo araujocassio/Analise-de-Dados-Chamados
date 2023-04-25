@@ -8,7 +8,6 @@ Esse projeto de análise de chamados para ajuste de temperatura utilizando o Ban
 
  - Identificar pontos criticos de temperatura no prédio;
  - Identificar qual epoca do ano possui maior numero de chamados;
- - 
 
 # Tecnologias utilizadas:
 
