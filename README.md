@@ -23,7 +23,7 @@ Esse projeto de análise de chamados para ajuste de temperatura utilizando o Ban
 
 Este projeto é uma solução completa e fácil de usar para o identificar pontos criticos de temperatura em um prédio, utilizando a linguagem de programação Python. Sinta-se à vontade para contribuir com melhorias e novas funcionalidades para a plataforma.
 
-# Periodo em analise: 2022 (Utilizei Pareto)
+# Periodo em analise: 2022 (Téoria Pareto)
 
 ![image](https://user-images.githubusercontent.com/98669544/234097176-28605d83-13aa-4a27-817d-57fe764a4b46.png)
 - Torre F claramente tem mais ocorrências do que a Torre E, logo selecionamos a torre F para analisar
