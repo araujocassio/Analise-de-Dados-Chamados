@@ -2,7 +2,9 @@
 
 
 
-Esse projeto de análise de chamados para ajuste de temperatura utilizando o Banco de Dados de uma ferramenta de manutenção InfraSpeak! Tem como objetivo analisar os dados de chamados relacionados a problemas de temperatura em um ambiente específico, a fim de identificar possíveis ajustes que possam ser feitos para melhorar a eficiência e reduzir custos.
+Esse projeto de análise de chamados para ajuste de temperatura utilizando o Banco de Dados de uma ferramenta de manutenção predial InfraSpeak
+
+Tem como objetivo analisar os dados de chamados relacionados a problemas de temperatura em um ambiente específico, a fim de identificar possíveis ajustes que possam ser feitos para melhorar a eficiência e reduzir custos.
 
 # Funcionalidades:
 
