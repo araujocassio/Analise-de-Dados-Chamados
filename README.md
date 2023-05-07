@@ -46,5 +46,7 @@ Este projeto é uma solução completa e fácil de usar para o identificar ponto
  - Faremos alguns ajustes nos setpoints do fancoil que atende essas salas
  - Diminuiremos o numero de difusores de ar dentro das salas
  - Faremos ajustes nos dampers do pavimento que antendem as salas, para que não afete as outras.
+ 
+ Depois que indentificamos os problemas, fizemos melhorias e reduzimos o número de chamados em 45%, além de melhorar melhorar o sistema de climatização, a fim de garantir o conforto térmico dos ocupantes, reduzimos os custos de operação do edifício e melhoramos a eficiência energética.
 
 
