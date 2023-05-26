@@ -27,6 +27,9 @@ Este projeto é uma solução completa e fácil de usar para o identificar ponto
 
 # Periodo em analise: 2022 (Téoria Pareto)
 
+Análise gráfica em Power BI
+![image](https://github.com/araujocassio/ArCondicionado/assets/98669544/19950353-e0ae-4f2e-9442-de1adf8b5056)
+
 ![image](https://user-images.githubusercontent.com/98669544/234097176-28605d83-13aa-4a27-817d-57fe764a4b46.png)
 - Torre F claramente tem mais ocorrências do que a Torre E, logo selecionamos a torre F para analisar
 
